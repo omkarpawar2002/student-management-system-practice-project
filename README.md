@@ -28,6 +28,48 @@ It also supports **image upload for student profile photos**.
 
 ---
 
+---
+
+## 📸 Screenshots
+
+---
+
+### 🔐 Authentication
+- **Sign Up Page**
+  ![Sign Up](screenshots/sign_up.png)
+- **Sign In Page**
+  ![Sign In](screenshots/sign_in.png)
+
+---
+
+### ➕ Add Student (Form)
+- **Page 1**
+  ![Add Student Page 1](screenshots/add_stu_part1.png)
+- **Page 2**
+  ![Add Student Page 2](screenshots/add_stu_part2.png)
+
+---
+
+### ✏️ Update Student
+- **Page 1**
+  ![Update Student Page 1](screenshots/update_stu_part1.png)
+- **Page 2**
+  ![Update Student Page 2](screenshots/update_stu_part2.png)
+
+---
+
+### 📋 Display Student
+![Student List](screenshots/display_stu.png)
+
+---
+
+### 🗑️ Delete Student
+![Delete Student](screenshots/delete_stu.png)
+
+
+
+---
+
 ## ▶️ Setup Instructions (Run Locally)
 
 ```bash
