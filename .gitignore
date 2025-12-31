@@ -1,1 +1,31 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Environment
+.env
+venv/
+env/
+
+# Byte-compiled / cache
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Media & Static (keep media if required)
+# media/
+staticfiles/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
 
